@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'smartLandscapeWebserver.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'test',
+        'NAME': 'smart_landscape_passenger',
         'USER': 'admin',
         'PASSWORD': 'smartLandscape',
         'HOST': '59.110.221.56',
